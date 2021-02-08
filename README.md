@@ -1,2 +1,2 @@
-# Coroutines-Linear-Interpolation
-Coroutines Linear Interpolation opdracht voor GPR
+# Coroutines-Lineair-Interpolation
+Coroutines Lineair Interpolation opdracht voor GPR
