@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8D191F9C-5072-1A78-5B9D-0BDC64F451AC}</ProjectGuid>
+    <ProjectGuid>{8D74BDE2-7109-C25A-4D4B-6D3E39E88C89}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -602,31 +602,31 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.12f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutine/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutines-Lineair-Interpolation/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutine/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutines-Lineair-Interpolation/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutine/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutines-Lineair-Interpolation/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutine/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutines-Lineair-Interpolation/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutine/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutines-Lineair-Interpolation/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutine/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutines-Lineair-Interpolation/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutine/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutines-Lineair-Interpolation/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutine/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutines-Lineair-Interpolation/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutine/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Diego/OneDrive - Mediacollege Amsterdam/GitHub/Coroutines-Lineair-Interpolation/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
