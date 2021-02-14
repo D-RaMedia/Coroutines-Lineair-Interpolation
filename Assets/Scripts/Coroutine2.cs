@@ -25,6 +25,6 @@ public class Coroutine2 : MonoBehaviour
 
         yield return new WaitForSeconds(0.5f);
 
-        print("Coroutine Einde");
+        print("Coroutine Einde 2");
     }
 }
