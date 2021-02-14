@@ -65,7 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Coroutine.cs" />
     <Compile Include="Assets\Scripts\Coroutine2.cs" />
-    <Compile Include="Assets\Scripts\Fade.cs" />
+    <Compile Include="Assets\Scripts\FadeCube.cs" />
     <Compile Include="Assets\Scripts\Spin.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

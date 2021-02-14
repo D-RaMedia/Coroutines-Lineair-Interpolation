@@ -150,9 +150,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 262473995}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 81c37918c2a28be44b5919b0468cd137, type: 3}
+  m_Script: {fileID: 11500000, guid: 0a6ad884aeac3f64ea0c1e3c32b0c04d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  fadeTime: 0
 --- !u!65 &262473997
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -184,7 +185,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: aba269baac2097c4abbe4e526a190967, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
