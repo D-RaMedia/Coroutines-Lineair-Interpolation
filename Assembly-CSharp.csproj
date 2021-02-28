@@ -63,10 +63,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Coroutine.cs" />
-    <Compile Include="Assets\Scripts\Coroutine2.cs" />
-    <Compile Include="Assets\Scripts\FadeCube.cs" />
-    <Compile Include="Assets\Scripts\MoveCube.cs" />
+    <Compile Include="Assets\Les1\Scripts\Coroutine.cs" />
+    <Compile Include="Assets\Les1\Scripts\Coroutine2.cs" />
+    <Compile Include="Assets\Les1\Scripts\FadeCube.cs" />
+    <Compile Include="Assets\Les1\Scripts\MoveCube.cs" />
+    <Compile Include="Assets\Les2\Scripts\Opdr1.cs" />
+    <Compile Include="Assets\Les2\Scripts\Opdr2.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
